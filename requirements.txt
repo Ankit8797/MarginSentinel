@@ -1,0 +1,16 @@
+pandas
+scikit-learn
+catboost
+networkx
+shap
+matplotlib
+seaborn
+mlflow
+fastapi
+uvicorn
+pydantic
+httpx
+streamlit
+pyvis
+pytest
+faker

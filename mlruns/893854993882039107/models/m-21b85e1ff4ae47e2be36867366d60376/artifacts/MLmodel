@@ -1,0 +1,22 @@
+artifact_path: file:///D:\MarginSentinel/mlruns/893854993882039107/models/m-21b85e1ff4ae47e2be36867366d60376/artifacts
+flavors:
+  catboost:
+    catboost_version: 1.2.10
+    code: null
+    data: model.cb
+    model_type: CatBoostClassifier
+    save_format: cbm
+  python_function:
+    data: model.cb
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.catboost
+    python_version: 3.14.0
+mlflow_version: 3.16.0
+model_id: m-21b85e1ff4ae47e2be36867366d60376
+model_size_bytes: 21040
+model_uuid: m-21b85e1ff4ae47e2be36867366d60376
+prompts: null
+run_id: 6be498febcd940f6b824ffedcc11a772
+utc_time_created: '2026-09-05 16:08:33.260179'

@@ -1,0 +1,9 @@
+artifact_location: file:///D:\MarginSentinel/mlruns/893854993882039107
+creation_time: 1788617713834
+effective_trace_archival_retention: null
+experiment_id: '893854993882039107'
+last_update_time: 1788617713834
+lifecycle_stage: active
+name: ecommerce_rto_risk
+trace_location: null
+workspace: default

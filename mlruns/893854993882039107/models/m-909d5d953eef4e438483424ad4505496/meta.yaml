@@ -1,0 +1,10 @@
+artifact_location: file:///D:\MarginSentinel/mlruns/893854993882039107/models/m-909d5d953eef4e438483424ad4505496/artifacts
+creation_timestamp: 1788617733152
+experiment_id: '893854993882039107'
+last_updated_timestamp: 1788617743275
+model_id: m-909d5d953eef4e438483424ad4505496
+model_type: null
+name: catboost_model
+source_run_id: ebcf0730f58644d3b2e7d1cdeb634cd1
+status: 2
+status_message: null
